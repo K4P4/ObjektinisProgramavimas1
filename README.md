@@ -16,6 +16,7 @@ Programa, kuri, įvedus vardą, sugeneruoja ir išveda sveikinimą su atitinkamo
 - Atsirado galimybė nustatyti rėmelio matmenis
 - Pašalintas poreikis skirtingiems kintamiesiems kiekvienai sveikinimo eilutei saugoti
 - Papildytas README.md failas
+- Pridėtas makefile
 
 ### [v0.2](https://github.com/K4P4/ObjektinisProgramavimas1/releases/tag/v0.2)
 
