@@ -1,10 +1,4 @@
-CXX = clang++
-CC = clang
-
-all:	Objektinis1
-
-test:	all
-	./Objektinis1
-
+compile:
+    g++ -o Objektinis Objektinis1.cpp
 clean:
-	rm -f *.o Objektinis1
+    rm *.o Objektinis1
